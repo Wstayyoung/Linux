@@ -1,7 +1,7 @@
 e.g.
 touch FileName.R
 vi FileName.R
-moudule add R/4.1.2
+module add R/4.1.2
 Rscript FileName.R
 
 wc -l FileName
