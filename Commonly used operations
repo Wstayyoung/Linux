@@ -1,0 +1,10 @@
+e.g.
+touch FileName.R
+vi FileName.R
+moudele add R/4.1.2
+Rscript FileName.R
+
+wc -l FileName
+# View row number
+cat FileName | awk '{print NF}'
+# View the number of columns, the default is \t split
